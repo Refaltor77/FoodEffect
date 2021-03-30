@@ -1,0 +1,8 @@
+---
+364:
+  effect:
+    5:
+      duration: 20 # 20 = 1 sec donc 20*10 = 10 sec
+      niveau: 2 # 0 = 1
+      visible: false
+...
