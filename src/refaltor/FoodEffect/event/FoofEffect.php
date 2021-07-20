@@ -2,7 +2,7 @@
 
 namespace refaltor\FoodEffect\event;
 
-use FoodEffect\Main;
+use refaltor\FoodEffect\Main;
 use pocketmine\entity\Effect;
 use pocketmine\entity\EffectInstance;
 use pocketmine\event\Listener;
