@@ -1,6 +1,6 @@
 <?php
 
-namespace FoodEffect;
+namespace refaltor\FoodEffect;
 
 use FoodEffect\event\FoodEffect;
 use pocketmine\plugin\PluginBase;
