@@ -2,7 +2,7 @@
 
 namespace refaltor\FoodEffect;
 
-use FoodEffect\event\FoodEffect;
+use refaltor\FoodEffect\event\FoodEffect;
 use pocketmine\plugin\PluginBase;
 use pocketmine\Server;
 use pocketmine\utils\Config;
